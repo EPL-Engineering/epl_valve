@@ -1,0 +1,10 @@
+v 20150930 2
+C 40000 40000 0 0 0 title-B.sym
+T 42400 44700 9 12 1 0 0 0 7
+Unlisted mechanical components for the electronics:
+1	TO220 Thermal Pad
+1	4-40 3/8" Nylon Screw
+1	4-40 Nylon Nut
+Unlisted mechanical conponents for the chassis:
+4	6-32 1/2" Pan Head Steel Screw
+4	6-32 1/2" Fillister Head Steel Screw
